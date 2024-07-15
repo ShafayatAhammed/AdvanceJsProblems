@@ -64,13 +64,16 @@
 
 // Answer to the question no 5
 
+// const name = "John";
+// const age = 30;
+
 // const person = {
-//     name : "John",
-//     age : 30,
-//     greet : function(){
-//         return `Hi, I'm ${this.name} and I'm ${this.age} years old.`
-//     }
-// }
+//   name,
+//   age,
+//   greet: function () {
+//     return `Hi, I'm ${this.name} and I'm ${this.age} years old.`;
+//   },
+// };
 
 // console.log(person.greet());
 
